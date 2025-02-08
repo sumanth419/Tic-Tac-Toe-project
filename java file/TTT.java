@@ -1,5 +1,4 @@
-TTT.java
-  package tic_tac_toe_game;
+package tic_tac_toe_game;
 
 import java.util.*;
 import java.util.HashSet;
